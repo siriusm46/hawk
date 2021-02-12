@@ -272,4 +272,5 @@ The rest of the tutorial however will still use the older version. I've ordered 
 [037]: screenshots/037-editing-connector-annotations.png
 [038]: screenshots/038-connector-annotations-edited.png
 
+
 [038-5]: screenshots/038-updated-schematic.png
